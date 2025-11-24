@@ -30,8 +30,8 @@ The main logic is implemented in `expense.py`, presented as a looping menu-based
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/stutieagrawaal-glitch/hiiii.git
-    cd hiiii
+    git clone https://github.com/stutieagrawaal-glitch/Expense-Tracker.git
+    cd Expense-Tracker
     ```
 2. Run the planner:
     ```bash
